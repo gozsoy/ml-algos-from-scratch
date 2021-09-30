@@ -1,2 +1,1 @@
-# kalkinma_plani
-# ml-algos-from-scratch
+ar y working
