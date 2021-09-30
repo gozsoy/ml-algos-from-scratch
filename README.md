@@ -1,0 +1,1 @@
+# kalkinma_plani
